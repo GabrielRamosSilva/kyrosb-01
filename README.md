@@ -2,7 +2,7 @@
 
 Projeto de cadastro de clientes
 
-## Description
+## Descrição
 
 O objetivo é o de prover 3 serviços: 
 
@@ -10,14 +10,13 @@ O objetivo é o de prover 3 serviços:
 2. Alteração do cliente;
 3. Deletar do cliente
 
-## Getting Started
 
-### Dependencies
+### Dependências
 
 * [Node](https://nodejs.org/en/download/)
 
 
-### Installing
+### Instalando
 
 1. Clone o repo
    sh
@@ -28,7 +27,7 @@ O objetivo é o de prover 3 serviços:
    npm install
 
 
-### Executing program
+### Executando o programa
 
 sh
 npm start
