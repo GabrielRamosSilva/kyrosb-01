@@ -18,17 +18,18 @@ O objetivo é o de prover 3 serviços:
 
 ### Instalando
 
-1. Clone o repo
-   sh
+1. Clone o repositório
+   ```sh
    git clone https://github.com/GabrielRamosSilva/kyrosb-01
-   
+   ```
 2. Instale as dependências:
-   sh
+   ```sh
    npm install
-
+   ```
 
 ### Executando o programa
 
-sh
-npm start
+   ```sh
+   npm start
+   ```
 
