@@ -4,11 +4,11 @@ Projeto de cadastro de clientes
 
 ## Descrição
 
-O objetivo é o de prover 3 serviços: 
+O objetivo é prover 3 ações: 
 
 1. Cadastro do cliente;
 2. Alteração do cliente;
-3. Deletar do cliente
+3. Deletar o cliente
 
 
 ### Dependências
